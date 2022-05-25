@@ -4,8 +4,7 @@ _Sara Cinquini e Francesca Martinucci_
 
 ## File
 All'interno del repository si può trovare:
-
--**Notebook**, contentente il codice per la visualizzaizione del dataset
+- **Notebook**, contentente il codice per la visualizzaizione del dataset
 - 3 **CSV** differenti per l'elaborazione dei dati
   - ```trump-tweets\trumptweets.csv```, csv di partenza contenente i tweet di Trump dal 2009 al 2020
   - ```emotions_x_years.csv```, csv contenente i dati elaborati tramite l'_emotional analysis_
