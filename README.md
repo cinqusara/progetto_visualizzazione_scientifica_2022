@@ -13,4 +13,6 @@ All'interno del repository si può trovare:
   - ```top20.csv```, csv derivante dalla elborazione dei 20 account più menzionati
   - ```words_freq_business_year.csv```, ```words_freq_election_year.csv```, ```words_freq_president_year.csv```, 3 csv ricavati dalla elaborazione delle parole più utilizzate nei tweets di quegli anni
 
+## Risorse
+1. [President Trump? I have 2013 on the line for you](https://edition.cnn.com/2019/05/15/politics/donald-trump-iran-barack-obama-2013/index.html)
 
