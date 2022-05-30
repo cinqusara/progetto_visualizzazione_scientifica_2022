@@ -18,4 +18,5 @@ All'interno del repository si può trovare:
 1. [President Trump? I have 2013 on the line for you](https://edition.cnn.com/2019/05/15/politics/donald-trump-iran-barack-obama-2013/index.html)
 2. [Donald Trump vero Tweeter-in-Chief sulla rete](https://www.ipresslive.it/comunicates/25094/donald-trump-vero-tweeter-in-chief-sulla-rete-ecco-i-5-tweet-piu-social-di-potus)
 3. [Fox News-Trump embrace](https://www.theguardian.com/media/2022/may/07/fox-news-donald-trump-meadows-hannity-texts)
+4. [Crooked Hillary](https://www.ansa.it/usa_2016/notizie/2016/04/19/crooked-hillary-i-soprannomi-affibbiati-da-trump_4fe26650-fd71-48eb-ae9b-03a0bb7e601f.html)
 
